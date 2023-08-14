@@ -1,6 +1,6 @@
 # Login_App_React_SpringBoot_JWT
-Simple application for log in, logout, display in 2 languages(internalization using React library i18next)
-JWT-based user authentication 
+
+This application provides a simple user authentication system using JWT (JSON Web Tokens). It supports login, logout, and displays content in two languages using the React library i18next for internalization.
 
 
 #Setting up applications
