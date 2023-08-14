@@ -4,12 +4,12 @@ This application provides a simple user authentication system using JWT (JSON We
 
 
 #Setting up applications
-#MySQL must be running  
+# MySQL must be running  
 Change username, password under springboot application.properties accordingly   
 spring.datasource.username=root  
 spring.datasource.password=root5  
 
-Start up springboot API server via App.java  
-Start up React   
+Start up springboot API server applicaiton via App.java  
+Start up React application    
 npm install  
 npm start  
